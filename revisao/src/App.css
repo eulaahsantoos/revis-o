@@ -1,0 +1,17 @@
+*{
+  background-color: black;
+  color: #ffff;
+}
+
+.App {
+  text-align: center;
+}
+
+img {
+  max-width: 500;
+}
+
+titulo-noticia{
+  color: #ffff;
+  font-size: 40px;
+}
